@@ -1,0 +1,2 @@
+# Baby-Care-Product-Analysis-Using-Pivot-Tables-in-Excel-Project
+Built an end-to-end Product &amp; Revenue Analytics Dashboard in Excel for a Baby Care dataset (2022–2024). Cleaned data, structured headers, and derived key fields. Designed manufacturer-wise reports with Pivot Tables &amp; GETPIVOTDATA, added interactive slicers for package, size &amp; attributes, enabling clear multi-year performance insights.
