@@ -1,8 +1,7 @@
 ### Baby Care Product Analysis (2022–2024)
 
-📊 An **End-to-End Product & Revenue Analytics Dashboard** built in Excel to analyze Baby Care industry performance across 2022–2024.  
+An **End-to-End Product & Revenue Analytics Dashboard** built in Excel to analyze Baby Care industry performance across 2022–2024.  
 This project covers **data cleaning, dashboard design, trend analysis, and insights generation** using pivot tables, structured reports, and interactive features.
----
 
 #### 🚀 Project Overview
 - Cleaned & structured raw dataset  
